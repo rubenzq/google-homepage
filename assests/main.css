@@ -1,0 +1,35 @@
+.content {
+	width = 100%;
+	margin-top: 150px;
+}
+
+.content img {
+	display: block;
+	margin: auto;
+}
+
+form {
+	padding-top: 10px;
+}
+
+#search {
+	width: 550px;
+	height: 30px;
+}
+
+
+nav ul {
+	list-style: none;
+	text-align: right;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+nav li {
+	display: inline;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
